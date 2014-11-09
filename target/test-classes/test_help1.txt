@@ -1,0 +1,19 @@
+1. Follow the formats below to create new shape:
+triangle <vertice1.x> <vertice1.y> <vertice2.x> <vertice2.y> <vertice3.x> <vertice3.y>
+donut <centr.x> <centr.y> <inner radius> <outer radius>
+circle <centr.x> <centr.y> <radius>
+
+Or you can input: help <shape name> to show the only instruction of a shape.
+    For example: help circle
+
+2. Use 'find <shape name>' to find the created shape
+   Use 'delete <shape name>' to delete the created shape
+3. To find all shapes contain a point, input a pair of number to indicate the point
+   For example: 
+    1 2 
+   means to find all shapes contains the point (1,2) 
+4. Use 'load <filePath>', you can load shape definition files to create shapes in a batch
+   if <filePath> is not entered, system will load default file: 'ShapeDefinitions.txt', this file can be load once
+   For example: 
+    load def.txt 
+5. Use 'exit' to exit.

@@ -1,0 +1,8 @@
+==>The following shapes contains the point (0.5,0.0):
+shape 1: circle with centre at (1.0,-2.0) and radius 3.0
+Area:28.274333882308138
+
+shape 2: triangle with 3 vertices at (1.0,1.0) (1.0,-1.0) (-1.0,-1.0)
+Area:1.9999999999999993
+
+Total Area:30.274333882308138

@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: I306067
+Build-Jdk: 1.7.0_71
+Class-Path: lib/reflections-0.9.9.jar lib/guava-15.0.jar lib/javassist
+ -3.18.2-GA.jar lib/annotations-2.0.1.jar lib/log4j-1.2.17.jar lib/com
+ mons-lang3-3.0.jar
+Main-Class: exercise.shape.user.UserInterface
+Created-By: Maven Integration for Eclipse
+
